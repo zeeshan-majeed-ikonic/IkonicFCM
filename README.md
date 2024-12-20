@@ -29,7 +29,7 @@ Simple and efficient library supporting Firebase Cloud Messaging Services for An
 ```
 ### Step 03:
 
-> Add Add gradle dependencies:
+> Add gradle dependencies:
 
 #### Firebase Cloud Messaging Service
 
@@ -45,7 +45,7 @@ Version: [![](https://jitpack.io/v/zeeshan-majeed-ikonic/IkonicFCM.svg)](https:/
     implementation ("com.github.zeeshan-majeed-ikonic:IkonicFCM:version")
 ```
 
-#### Add Add "google-services.json" file in your project
+#### Add "google-services.json" file in your project
 
 ### Add Classpath
 ```kotlin 
