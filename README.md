@@ -50,7 +50,7 @@ Version: [![](https://jitpack.io/v/zeeshan-majeed-ikonic/IkonicFCM.svg)](https:/
 
 ```kotlin 
     GlobalScope.launch {
-        IkHelperFCM.startFCMService(this,packageName)
+        IkHelperFCM.startFCMService(this,topic)
     }
 ```
 ### Step 04:
@@ -63,6 +63,6 @@ Version: [![](https://jitpack.io/v/zeeshan-majeed-ikonic/IkonicFCM.svg)](https:/
 ### Step 05:
 > If you want to stop FCM service
 ```kotlin 
-    IkHelperFCM.stopFCMService(packageName)
+    IkHelperFCM.stopFCMService(topic)
 ```
 #### That's it 
