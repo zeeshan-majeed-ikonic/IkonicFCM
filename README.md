@@ -44,6 +44,19 @@ Version: [![](https://jitpack.io/v/zeeshan-majeed-ikonic/IkonicFCM.svg)](https:/
 ```kotlin 
     implementation ("com.github.zeeshan-majeed-ikonic:IkonicFCM:version")
 ```
+
+#### Add Add "google-services.json" file in your project
+
+### Add Classpath
+```kotlin 
+    id("com.google.gms.google-services") version "latest_version" apply false
+```
+
+### Add Plugin
+```kotlin 
+    id("com.google.gms.google-services")
+```
+
 ### Step 03:
 
 ## Initialize IkHelperFCM
