@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13234886828",
+    "project_id": "ikfcmhelper",
+    "storage_bucket": "ikfcmhelper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13234886828:android:4c64e8c27126edf008e709",
+        "android_client_info": {
+          "package_name": "com.example.ikappsfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1NQbb3udMHlWy08wOUSHsY10dVXIkRTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
